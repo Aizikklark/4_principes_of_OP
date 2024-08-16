@@ -1,0 +1,19 @@
+{
+  "name": "4_principes_of_op",
+  "version": "1.0.0",
+  "main": "incaps.js",
+  "scripts": {
+    "start": " node incaps.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aizikklark/4_principes_of_OP.git"
+  },
+  "author": "Aizik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aizikklark/4_principes_of_OP/issues"
+  },
+  "homepage": "https://github.com/Aizikklark/4_principes_of_OP#readme",
+  "description": ""
+}
