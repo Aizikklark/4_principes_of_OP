@@ -1,1 +1,2 @@
-node $name$.js
+node $name$
+//without npm start from *.json file
